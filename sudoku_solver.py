@@ -32,7 +32,7 @@ import random
 
 
 ###############################
-# First reduction
+# 1st reduction
 ###############################
 def firstReduction(n):
     s = Solver()
@@ -75,7 +75,6 @@ def firstReduction(n):
     return s, board
 
 ############################
-# 2nd reduction
 # 2nd reduction
 ############################
 
